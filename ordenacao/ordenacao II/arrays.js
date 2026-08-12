@@ -1,11 +1,11 @@
-const edFolha = [
+const listaLivros = [
     {
-        titulo: "PHP",
-        preco: 15
+        titulo: "GO",
+        preco: 45
     },
     {
-        titulo: "JavaScript",
-        preco: 25
+        titulo: "C++",
+        preco: 35
     },
     {
         titulo: "Java",
